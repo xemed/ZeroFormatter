@@ -1,8 +1,9 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <VersionPrefix>1.6.4</VersionPrefix>
-    <TargetFramework>netstandard1.1</TargetFramework>
+    <InformationalVersion>1.6.4-xequin</InformationalVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>ZeroFormatter.Interfaces</AssemblyName>
     <PackageId>ZeroFormatter.Interfaces.NETCore</PackageId>
   </PropertyGroup>
